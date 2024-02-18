@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542746091590",
+    "project_id": "collaboratask-angular",
+    "storage_bucket": "collaboratask-angular.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542746091590:android:ea7ab4feba99c1b3ec6a47",
+        "android_client_info": {
+          "package_name": "com.example.collaboratask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542746091590-gkb0jrf707hermtkn7qehb4ld6gblsjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQtTSi96ssYhvWVP-9pqhfezdeLsTOOa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542746091590-gkb0jrf707hermtkn7qehb4ld6gblsjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
